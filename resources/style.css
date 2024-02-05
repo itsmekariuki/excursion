@@ -1,6 +1,7 @@
 html {
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
@@ -9,4 +10,39 @@ header {
     font-size: 50px;
     color: white;
     text-align: center;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.waterfall {
+    padding: 10px;
+}
+
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.guide h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+
+.guide img {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    margin-top: 40px;
 }
